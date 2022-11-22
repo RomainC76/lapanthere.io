@@ -136,7 +136,7 @@ blockquote,
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: white;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
