@@ -119,7 +119,7 @@ blockquote,
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(60, 60, 60);
+    color: white;
 }
 
 .d-bloc .a-btn:hover,
